@@ -1,1 +1,3 @@
-# chipandchap
+# Chip&Chap
+Chip and Chap is simple, classical scrolling platformer game (single html file). Currently, there is just one scene: "The Room". "The Room" is a flat, U-shaped level furnished as a bedroom/living room. there is one bed, a long, sectional dinig table, a few arm chairs and cupboards and shelves.
+Curently only Chip is playable (plush dog, see the sprite sheet `src/concept/art/chip.sprite-sheet.png`).
