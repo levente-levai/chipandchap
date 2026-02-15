@@ -1,0 +1,6 @@
+node_modules/
+.build/
+.deployment/
+assets/working/
+playwright-report/
+test-results/

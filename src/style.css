@@ -1,0 +1,31 @@
+* {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+  background: #0b111a;
+  color: #ffffff;
+  font-family: "Trebuchet MS", sans-serif;
+}
+
+body {
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#game-container {
+  width: 800px;
+  max-width: 100vw;
+  border: 2px solid #425d7b;
+}
+
+canvas {
+  display: block;
+  width: 100%;
+  height: auto;
+}
