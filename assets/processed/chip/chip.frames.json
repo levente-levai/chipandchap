@@ -1,0 +1,35 @@
+{
+  "source": "/media/apache/datafast/games/chipandchap/assets/working/art/chip.sprite-sheet.2.png",
+  "frameWidth": 208,
+  "frameHeight": 240,
+  "columns": 6,
+  "rows": 3,
+  "animations": {
+    "idle": [
+      0,
+      1
+    ],
+    "run": [
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "jump": [
+      12,
+      13,
+      14,
+      15
+    ]
+  },
+  "notes": {
+    "rowOrder": [
+      "idle",
+      "run",
+      "jump"
+    ],
+    "normalization": "centered horizontally with fixed baseline"
+  }
+}

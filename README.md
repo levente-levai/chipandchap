@@ -25,6 +25,11 @@ Chip&Chap is a minimal single-screen platformer built with Phaser 3.
 ./build.sh --install --run-unit-tests
 ```
 
+## Sprite Extraction Workflow
+```bash
+./tools/workflow/extract-chip.sh --source assets/working/art/chip.sprite-sheet.2.png --overwrite --yes
+```
+
 ## Local Deployment
 ```bash
 ./deploy.sh --build --serve
